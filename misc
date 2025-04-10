@@ -3,7 +3,10 @@
 -real strategy
 -better civ colors
 -disable sattelite reveal
+-disable loyalty
 
+enable debug menu
+C:\Users\"USER"\AppData\Local\Firaxis Games\Sid Meier's Civilization VI is new path
 
 -original xml file
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Edward Beach (Firaxis Games) -->
