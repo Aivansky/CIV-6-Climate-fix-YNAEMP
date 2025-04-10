@@ -8,6 +8,17 @@
 enable debug menu
 C:\Users\"USER"\AppData\Local\Firaxis Games\Sid Meier's Civilization VI is new path
 
+[Debug]
+;Enable FireTuner.
+EnableTuner 0
+
+;Enable Debug menu.
+EnableDebugMenu 0
+
+;Set to 0 to disable audio.
+EnableAudio 1
+
+
 -original xml file
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Edward Beach (Firaxis Games) -->
 <GameInfo>
